@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         println("commit three")
 
         println("commit one")
+        println("commit two")
     
         println("Test code to develop")
     }
